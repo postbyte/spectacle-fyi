@@ -7,11 +7,12 @@
 </style>
 
 <svelte:head>
-  <title>Sapper Fortune Template</title>
+  <title>Spectacle.fyi</title>
 </svelte:head>
 
 <article>
   <div>
-    <h1>Welcome to your Sapper site.</h1>
+    <h1>Spectacle.fyi</h1>
+    <h2>The only fake news site parodying white society.</h2>
   </div>
 </article>

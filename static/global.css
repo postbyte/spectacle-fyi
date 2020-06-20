@@ -1,3 +1,5 @@
 :root {
+  /* --font-family: 'Manrope', sans-serif;; */
+  --headings-font-family: 'Manrope', sans-serif;;
   --link-color: var(--indigo);
 }

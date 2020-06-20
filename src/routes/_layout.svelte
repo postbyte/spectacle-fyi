@@ -9,7 +9,6 @@
 </style>
 
 <main p="10 sm3">
-  <Header {segment} />
 
   <main py="4">
     <slot />
@@ -18,8 +17,8 @@
   <footer>
     <nav>
       <div>
-        <a href="https://github.com/atav1k/sapper-fortune-template">Github</a>
-        <a href="/">&copy; {new Date().getFullYear()}</a>
+        By <a href="https://github.com/postbyte">Postbyte Public Benefit Corporation</a>
+        &copy; {new Date().getFullYear()}
       </div>
     </nav>
   </footer>
